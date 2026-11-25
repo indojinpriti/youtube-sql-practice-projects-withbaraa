@@ -124,9 +124,9 @@ This repo is my own practice and project work for learning & job applications.
 
 ## 📬 Contact
 
-**[YOUR NAME]** • Aspiring Data Analyst / Data Engineer
-- LinkedIn: [paste-your-linkedin-url]
-- GitHub: [paste-your-github-url]
-- Email: [your-email]
+**PRITI PANA** • Aspiring Data Analyst / Data Engineer
+- LinkedIn: www.linkedin.com/in/priti-pana
+- GitHub: https://github.com/indojinpriti/ 
+- Email: pritipana888@gmail.com 
 
 ⭐ If you find this helpful, please star this repo!
